@@ -1,0 +1,22 @@
+.owl-wrapper {
+  position: relative;
+  display: block;
+}
+
+.owl-wrapper:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.owl-carousel {
+  float: left;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.owl-wrapper .owl-nav {
+  display: block;
+  float: left;
+  width: 10%;
+}
