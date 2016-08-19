@@ -1,5 +1,5 @@
 # OwlSideNav
-Owl Carousel 2 Plugin for Side Navigation 
+Owl Carousel 2 Plugin for Side Navigation
 
 Currently under development.
 
@@ -15,6 +15,7 @@ Currently under development.
 - Set `sideNav: true` in your owl carousel initialization.
 
 ## Example
+Checkout the live [demo](https://mrsdohpaz.github.io/OwlSideNav/) or see the demo directory of this branch to see a sample page.
 
 ```
   <link rel="stylesheet" href="owl.carousel.min.css">
