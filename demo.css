@@ -1,5 +1,6 @@
 body {
   font-family: "Lato";
+  font-size: 16px;
 }
 
 .owl-carousel .item {
@@ -13,4 +14,44 @@ body {
   color: #FFF;
   font-size: 20px;
   font-weight: 400;
+}
+
+#demo h1 {
+  margin: 0 0 50px;
+  height: 100px;
+  background-color: #1ccacd;
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 3.375rem;
+  line-height: 100px;
+  text-align: center;
+}
+
+#hero {
+  margin: 50px auto;
+  width: 100%;
+  min-height: 200px;
+  background-color: #f7f7f7;
+}
+
+#hero .buttons {
+  width: 100%;
+  text-align: center;
+}
+
+#hero a.button {
+  display: inline-block;
+  margin: 50px auto;
+  padding: 1rem 2rem;
+  border: 1px solid #1ccacd;
+  color: #1ccacd;
+  font-size: 1.250rem;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+#hero a.button:hover {
+  border-color: #ffffff;
+  color: #ffffff;
+  background-color: #ff3f4d;
 }
