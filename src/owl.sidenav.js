@@ -59,8 +59,6 @@
         prev = navigation.find('.' + $options.navClass[0]),
         next = navigation.find('.' + $options.navClass[1]);
 
-    console.log($options);
-
     // Remove existing navigation.
 		navigation.remove();
 
