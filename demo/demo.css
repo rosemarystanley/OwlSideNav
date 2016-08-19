@@ -1,0 +1,16 @@
+body {
+  font-family: "Lato";
+}
+
+.owl-carousel .item {
+  height: 10rem;
+  background: #4DC7A0;
+  padding: 1rem;
+}
+
+.owl-carousel .item h4 {
+  margin-top: 0rem;
+  color: #FFF;
+  font-size: 20px;
+  font-weight: 400;
+}
